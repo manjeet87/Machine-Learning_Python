@@ -1,0 +1,6 @@
+*.csv
+Mini Project
+.ipynb_checkpoints
+*.zip
+*.xlsx
+*.pdf
